@@ -7,6 +7,7 @@ def line(current_line)
     index = 0 
     while index < current_line.length - 1 do 
       line_string << "#{index+1}. #{current_line[index]}"
+      index+=1
     end 
     puts line_string 
   end 
