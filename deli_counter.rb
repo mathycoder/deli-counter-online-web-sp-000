@@ -18,6 +18,9 @@ def take_a_number(the_line, person)
   puts "Welcome, #{person}. You are number #{the_line.length} in line."
 end 
 
+def now_serving(the_line)
+end 
+
 the_line = []
 take_a_number(the_line, "Hazel")
 puts the_line
