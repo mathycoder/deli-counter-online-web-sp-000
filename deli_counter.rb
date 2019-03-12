@@ -28,4 +28,6 @@ end
 
 the_line = []
 take_a_number(the_line, "Hazel")
+take_a_number(the_line, "Willow")
+take_a_number(the_line, "Hazel")
 puts the_line
