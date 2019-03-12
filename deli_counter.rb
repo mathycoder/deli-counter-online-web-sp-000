@@ -19,6 +19,9 @@ def take_a_number(the_line, person)
 end 
 
 def now_serving(the_line)
+  if the_line.length == 0 
+    
+  end 
 end 
 
 the_line = []
