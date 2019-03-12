@@ -19,3 +19,4 @@ end
 
 the_line = ["Adam","Cathy","Willow"]
 take_a_number(the_line, "Hazel")
+puts the_line
