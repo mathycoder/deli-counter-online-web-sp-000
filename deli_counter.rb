@@ -30,4 +30,5 @@ the_line = []
 take_a_number(the_line, "Hazel")
 take_a_number(the_line, "Willow")
 take_a_number(the_line, "Dakota")
+now_serving(the_line)
 puts the_line
