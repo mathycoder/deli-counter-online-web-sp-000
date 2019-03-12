@@ -5,7 +5,7 @@ def line(current_line)
   else 
     line_string = "The line is currently:"
     index = 0 
-    while index < current_line.length - 1 do 
+    while index < current_line.length do 
       line_string << " #{index+1}. #{current_line[index]}"
       index+=1 
     end 
