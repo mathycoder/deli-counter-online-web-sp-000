@@ -17,4 +17,5 @@ def take_a_number(the_line, person)
   the_line << person 
 end 
 
-line(["Adam","Cathy","Willow"])
+the_line = ["Adam","Cathy","Willow"]
+take_a_number(the_line, "Hazel")
