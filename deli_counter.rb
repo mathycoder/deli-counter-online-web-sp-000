@@ -12,3 +12,5 @@ def line(current_line)
     puts line_string 
   end 
 end 
+
+line(["Adam","Cathy","Willow"])
