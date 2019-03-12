@@ -13,5 +13,6 @@ def line(current_line)
   end 
 end 
 
-
+def take_a_number(person)
+end 
 line(["Adam","Cathy","Willow"])
